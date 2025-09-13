@@ -1,0 +1,501 @@
+Date,Product,Category,Region,City,Sales Channel,Salesperson,Quantity Sold,Unit Price,Discount Applied(%),Total Revenue,Returned,Profit
+15-04-2023,Milk Chocolate Bar,Dark,East,Kolkata,Online,Raj,87,383.3,0.16,28011.56,No,4880.84
+23-07-2023,Dark Chocolate Bar,Dark,North,Delhi,Online,Amit,92,342.45,0.16,26464.54,No,73.14
+15-12-2023,Chocolate Box,White,North,Delhi,Distributor,Ali,36,119.97,0.29,3066.43,No,-315.28
+14-02-2023,Milk Chocolate Bar,Nutty,North,Lucknow,Retail,John,94,256.74,0.04,23168.22,No,5076.14
+16-07-2023,Milk Chocolate Bar,Fruity,East,Patna,Distributor,Priya,91,81.3,0.2,5918.64,No,1191.09
+09-01-2024,Milk Chocolate Bar,Milk,North,Lucknow,Retail,Meera,21,216.58,0.06,4275.29,No,1369.01
+17-06-2023,Milk Chocolate Bar,Fruity,South,Hyderabad,Distributor,Sara,60,220.75,0.3,9271.5,No,1132.17
+20-11-2023,Chocolate Truffle,Milk,East,Kolkata,Online,Amit,52,170.48,0.06,8333.06,No,1094.43
+27-05-2023,Caramel Chocolate,Milk,West,Pune,Distributor,Meera,34,112.83,0.22,2992.25,No,114.02
+22-05-2023,Chocolate Box,Nutty,Central,Nagpur,Retail,Sara,66,272.08,0.23,13827.11,No,-126.02
+30-01-2024,White Chocolate Bar,Premium,South,Hyderabad,Retail,Neha,49,318.15,0.14,13406.84,No,3973.01
+15-12-2023,Chocolate Truffle,Dark,North,Chandigarh,Distributor,John,15,182.08,0.05,2594.64,Yes,293.67
+03-06-2024,Almond Chocolate,Fruity,South,Hyderabad,Online,John,78,139.51,0.11,9684.78,No,891.1
+25-04-2023,Chocolate Truffle,Dark,Central,Nagpur,Retail,Amit,47,445.42,0.25,15701.06,No,2028.9
+12-03-2023,Dark Chocolate Bar,Milk,Central,Bhopal,Online,Meera,98,289.72,0.04,27256.86,No,8930.7
+05-08-2023,Chocolate Truffle,Milk,East,Patna,Distributor,Ali,70,389.87,0.21,21559.81,No,3933.95
+04-05-2023,Mint Chocolate,Premium,East,Bhubaneswar,Distributor,Meera,32,151.11,0.1,4351.97,No,1082.87
+23-08-2023,Hazelnut Chocolate,Fruity,South,Bangalore,Online,Amit,9,457.44,0.26,3046.55,No,36.27
+29-04-2024,Hazelnut Chocolate,White,West,Mumbai,Distributor,Raj,32,403.08,0.24,9802.91,No,670.91
+23-04-2024,Milk Chocolate Bar,Premium,West,Pune,Retail,Ali,94,74.38,0.2,5593.38,No,889.3
+14-07-2023,Dark Chocolate Bar,Nutty,East,Kolkata,Online,Sara,69,251.88,0.13,15120.36,No,2034.07
+16-01-2023,Hazelnut Chocolate,Dark,West,Ahmedabad,Online,Amit,12,466.87,0.25,4201.83,No,644.99
+24-01-2024,Orange Chocolate,Nutty,South,Chennai,Online,Raj,1,493.39,0.08,453.92,No,121.85
+08-06-2023,Orange Chocolate,White,West,Ahmedabad,Distributor,Meera,25,183.52,0.29,3257.48,No,84.46
+29-05-2024,Chocolate Truffle,Dark,East,Kolkata,Online,Meera,68,120.84,0.29,5834.16,No,-33.01
+18-02-2024,White Chocolate Bar,Dark,Central,Bhopal,Distributor,Sara,16,473.72,0.17,6291,No,255.47
+25-09-2023,Dark Chocolate Bar,Fruity,North,Lucknow,Distributor,Priya,27,351.38,0.09,8633.41,No,2467.46
+10-01-2023,White Chocolate Bar,Premium,East,Bhubaneswar,Retail,Neha,59,329.52,0.17,16136.59,No,1972.19
+12-03-2023,Chocolate Truffle,Milk,Central,Nagpur,Online,Priya,32,216.29,0.05,6575.22,No,1397.39
+17-04-2023,Almond Chocolate,Fruity,Central,Bhopal,Distributor,John,18,169.01,0.27,2220.79,No,360.15
+28-07-2023,White Chocolate Bar,White,East,Patna,Online,Priya,88,335.41,0.08,27154.79,No,4962.06
+08-12-2023,Dark Chocolate Bar,Dark,West,Pune,Online,Amit,99,108.87,0.29,7652.47,No,726.11
+19-03-2023,Orange Chocolate,Fruity,West,Ahmedabad,Online,Neha,89,456.77,0.16,34148.13,No,9095.48
+12-11-2023,Chocolate Box,Fruity,South,Chennai,Online,Amit,47,454.54,0.24,16236.17,No,-1649.71
+21-02-2024,Caramel Chocolate,Milk,South,Hyderabad,Online,Priya,80,387.26,0.28,22306.18,No,-3761.31
+26-02-2024,White Chocolate Bar,Milk,West,Mumbai,Online,Priya,86,438.83,0.24,28681.93,No,-1588.8
+16-04-2024,Milk Chocolate Bar,Nutty,North,Lucknow,Online,Sara,45,187.34,0.24,6407.03,No,706.85
+13-03-2023,Dark Chocolate Bar,Premium,South,Chennai,Retail,John,99,175.61,0.19,14082.17,No,3226.42
+29-09-2023,Chocolate Truffle,White,North,Delhi,Retail,Raj,5,98.78,0.13,429.69,No,48.86
+14-07-2023,Caramel Chocolate,Nutty,Central,Indore,Online,Ali,33,69.97,0.13,2008.84,No,369.35
+05-12-2023,Chocolate Truffle,Premium,South,Chennai,Retail,Neha,80,191.26,0.25,11475.6,No,1828.3
+17-02-2024,Almond Chocolate,Fruity,East,Patna,Retail,Priya,90,183.04,0.04,15814.66,No,3891.16
+20-02-2024,Mint Chocolate,Premium,South,Hyderabad,Distributor,John,71,425.18,0.09,27470.88,No,9098.68
+07-08-2023,Chocolate Box,Fruity,East,Bhubaneswar,Retail,Meera,66,262.93,0.27,12667.97,No,-1689
+06-04-2023,White Chocolate Bar,Premium,North,Lucknow,Distributor,Priya,97,155.69,0.09,13742.76,No,3704.58
+11-04-2024,White Chocolate Bar,Dark,North,Delhi,Retail,Neha,54,448.76,0.17,20113.42,No,1559.86
+20-04-2023,Mint Chocolate,Nutty,West,Mumbai,Online,Amit,100,241.32,0.05,22925.4,No,6565.65
+12-04-2024,Chocolate Truffle,Nutty,North,Chandigarh,Online,Neha,18,410.64,0.2,5913.22,No,517.28
+01-04-2024,Chocolate Box,White,West,Ahmedabad,Distributor,Ali,21,384.64,0.14,6946.6,No,996.13
+09-10-2023,Hazelnut Chocolate,Premium,East,Patna,Retail,Sara,57,84.87,0.09,4402.21,No,1276.09
+28-01-2024,Caramel Chocolate,Fruity,North,Delhi,Online,Sara,89,118.76,0.06,9935.46,No,1031.64
+06-03-2024,Caramel Chocolate,Fruity,West,Pune,Online,Sara,50,457.18,0.18,18744.38,No,599.29
+04-02-2024,Chocolate Box,Nutty,West,Mumbai,Retail,John,54,292.2,0.22,12307.46,No,-865.86
+30-01-2023,Hazelnut Chocolate,Nutty,South,Chennai,Retail,Meera,50,201.26,0.2,8050.4,No,-238.56
+08-02-2024,White Chocolate Bar,Nutty,South,Hyderabad,Distributor,Amit,76,303.98,0.01,22871.46,No,5556.73
+02-12-2023,White Chocolate Bar,Nutty,South,Bangalore,Retail,Ali,28,254.61,0.1,6416.17,No,495.69
+23-02-2023,Almond Chocolate,Nutty,East,Kolkata,Retail,Amit,45,150.9,0.02,6654.69,No,2430.16
+02-09-2023,Dark Chocolate Bar,Dark,South,Bangalore,Online,Raj,17,263.1,0.03,4338.52,No,1435.76
+17-06-2023,Orange Chocolate,Premium,East,Bhubaneswar,Online,Neha,40,98.64,0.01,3906.14,No,1494.17
+15-04-2023,Mint Chocolate,Nutty,South,Bangalore,Distributor,Sara,90,397.62,0.26,26481.49,No,2099.46
+15-01-2024,Milk Chocolate Bar,Fruity,North,Lucknow,Distributor,Ali,9,277.68,0.1,2249.21,No,506.9
+06-06-2023,Orange Chocolate,Dark,West,Pune,Distributor,Meera,56,129.26,0.16,6080.39,No,1246.21
+27-11-2023,Chocolate Box,Fruity,West,Pune,Retail,John,32,423.83,0.03,13155.68,No,2208.19
+11-12-2023,Hazelnut Chocolate,Nutty,Central,Indore,Distributor,Ali,4,272.44,0.1,980.78,No,229.73
+11-01-2023,Caramel Chocolate,White,East,Bhubaneswar,Distributor,John,67,476.63,0.03,30976.18,No,9572.8
+03-04-2024,Orange Chocolate,Fruity,South,Hyderabad,Retail,Meera,3,91.87,0.07,256.32,No,53.56
+11-03-2024,Almond Chocolate,Premium,Central,Nagpur,Retail,Priya,96,297.67,0.11,25432.92,No,7280.35
+20-11-2023,Almond Chocolate,White,South,Bangalore,Distributor,Sara,16,384.3,0.29,4365.65,No,-556.77
+13-04-2023,Hazelnut Chocolate,Milk,West,Pune,Distributor,John,25,183.31,0.11,4078.65,No,1243.59
+10-05-2023,Chocolate Truffle,Milk,East,Kolkata,Online,John,82,440.81,0.15,30724.46,No,118.5
+08-07-2023,Chocolate Box,White,West,Pune,Retail,Priya,7,163.62,0.26,847.55,No,-60.77
+05-06-2023,Milk Chocolate Bar,Nutty,West,Mumbai,Distributor,Amit,20,415.01,0.28,5976.14,No,583.68
+19-06-2024,Hazelnut Chocolate,Dark,Central,Nagpur,Distributor,Sara,49,252.73,0.13,10773.88,No,3326.52
+01-08-2023,Mint Chocolate,White,Central,Indore,Online,Neha,81,144.96,0.2,9393.41,No,-45.38
+06-04-2024,White Chocolate Bar,Fruity,North,Delhi,Online,Ali,89,317.22,0.09,25691.65,No,3763
+28-09-2023,Almond Chocolate,Premium,West,Mumbai,Distributor,Sara,81,315.41,0.24,19416.64,No,-568.49
+26-05-2023,Milk Chocolate Bar,Fruity,South,Hyderabad,Online,John,10,76.84,0.24,583.98,No,-25.22
+17-02-2024,Chocolate Box,White,West,Mumbai,Retail,John,35,275.21,0.15,8187.5,No,2229.78
+04-04-2023,Dark Chocolate Bar,Nutty,East,Patna,Retail,Amit,30,482.86,0.25,10864.35,No,874.7
+26-04-2024,Dark Chocolate Bar,Premium,East,Patna,Online,Raj,67,343.18,0.27,16784.93,No,2323.05
+23-02-2024,Chocolate Box,Nutty,West,Mumbai,Retail,Priya,43,194.48,0.03,8111.76,No,1289.72
+07-02-2023,Mint Chocolate,Premium,West,Pune,Distributor,Ali,59,89.63,0.08,4865.12,No,868.19
+28-02-2024,Mint Chocolate,Fruity,North,Chandigarh,Distributor,Meera,7,134.41,0.11,837.37,No,195.01
+22-10-2023,Orange Chocolate,Dark,South,Chennai,Distributor,Raj,57,446.38,0.15,21627.11,Yes,5956.62
+22-02-2024,Chocolate Box,Milk,South,Chennai,Distributor,Amit,12,151.12,0.25,1360.08,No,131.03
+05-06-2024,Milk Chocolate Bar,Premium,South,Chennai,Distributor,John,91,173.04,0.25,11809.98,No,1081.86
+04-06-2024,Hazelnut Chocolate,Nutty,Central,Bhopal,Retail,Sara,96,445.7,0.26,31662.53,No,-1814.24
+02-11-2023,Mint Chocolate,White,Central,Nagpur,Online,John,76,310.97,0.2,18906.98,No,959.78
+11-04-2024,Orange Chocolate,Fruity,West,Pune,Retail,Ali,42,441.32,0.29,13160.16,No,-2072.32
+26-01-2024,Mint Chocolate,Milk,West,Mumbai,Retail,Meera,50,494.79,0.24,18802.02,No,1037.73
+13-04-2023,White Chocolate Bar,Nutty,North,Delhi,Distributor,Priya,57,94.87,0.27,3947.54,Yes,541.31
+13-12-2023,White Chocolate Bar,Nutty,South,Bangalore,Retail,John,80,361.72,0.19,23439.46,No,917
+06-02-2023,Chocolate Truffle,Nutty,East,Patna,Distributor,Meera,80,80.79,0.19,5235.19,No,127.99
+30-03-2024,Hazelnut Chocolate,Premium,North,Lucknow,Online,Neha,22,362.3,0.27,5818.54,Yes,-82.25
+08-09-2023,Dark Chocolate Bar,White,East,Bhubaneswar,Retail,Raj,68,235.42,0.2,12806.85,No,116.2
+24-05-2024,White Chocolate Bar,Dark,Central,Nagpur,Distributor,Sara,75,114.4,0.14,7378.8,No,1171.61
+17-03-2023,Almond Chocolate,Premium,North,Lucknow,Retail,Raj,57,475.36,0.3,18966.86,No,-831.38
+29-01-2024,Mint Chocolate,Premium,East,Bhubaneswar,Retail,Sara,62,97.99,0.11,5407.09,No,1112.49
+09-10-2023,Almond Chocolate,Premium,East,Kolkata,Distributor,Ali,2,304.67,0.21,481.38,No,111.9
+13-08-2023,Dark Chocolate Bar,Fruity,West,Pune,Online,Priya,82,135.56,0.08,10226.65,No,3257.27
+13-11-2023,White Chocolate Bar,Premium,North,Chandigarh,Distributor,Amit,57,65.01,0.11,3297.96,No,1045.5
+10-01-2024,Almond Chocolate,White,West,Mumbai,Online,Raj,68,275.81,0.08,17254.67,No,3017.64
+25-05-2023,Orange Chocolate,White,East,Kolkata,Retail,Neha,97,484.93,0.26,34808.28,No,2888.67
+28-09-2023,Mint Chocolate,Fruity,East,Kolkata,Retail,Amit,69,105.61,0.11,6485.51,No,1186.76
+28-08-2023,Almond Chocolate,Fruity,West,Ahmedabad,Retail,Neha,61,61.26,0.27,2727.91,No,-362.07
+23-02-2024,Chocolate Box,Milk,North,Chandigarh,Retail,John,15,112.9,0.28,1219.32,No,97.68
+02-02-2024,Orange Chocolate,Dark,North,Delhi,Distributor,Raj,59,216.96,0.28,9216.46,No,222.78
+29-02-2024,Chocolate Truffle,Nutty,Central,Indore,Distributor,Raj,84,94.56,0.15,6751.58,No,485.41
+30-08-2023,Almond Chocolate,Dark,East,Kolkata,Retail,Meera,47,94.71,0.21,3516.58,No,591.14
+10-04-2024,Caramel Chocolate,Dark,West,Pune,Online,Neha,12,348.25,0.19,3384.99,No,797.17
+12-03-2023,Dark Chocolate Bar,Dark,East,Kolkata,Online,Sara,98,299.39,0.18,24058.98,No,4329.51
+29-05-2023,Hazelnut Chocolate,White,South,Hyderabad,Online,John,17,293.1,0.24,3786.85,No,596.4
+17-01-2023,Dark Chocolate Bar,Milk,North,Lucknow,Online,Priya,23,169.42,0.04,3740.79,No,497.12
+09-06-2024,Milk Chocolate Bar,Premium,North,Lucknow,Retail,Priya,76,99.07,0.15,6399.92,No,361.18
+04-03-2023,Dark Chocolate Bar,Premium,Central,Nagpur,Retail,Amit,62,431.28,0.13,23263.24,No,2985.42
+09-03-2023,Orange Chocolate,Dark,North,Lucknow,Distributor,Raj,17,173.76,0.19,2392.68,No,-23.23
+01-06-2024,Caramel Chocolate,Nutty,Central,Indore,Retail,Meera,78,243.59,0.24,14440.02,No,-777.44
+28-02-2024,Chocolate Truffle,Premium,South,Chennai,Retail,Sara,44,422.34,0.12,16353,No,4336.47
+06-06-2023,Caramel Chocolate,Nutty,East,Patna,Retail,Priya,88,465.34,0.02,40130.92,No,6423.41
+14-05-2023,Milk Chocolate Bar,Nutty,North,Chandigarh,Distributor,Priya,72,76.99,0.29,3935.73,No,-137.67
+22-10-2023,Milk Chocolate Bar,Nutty,East,Patna,Retail,Amit,77,190.6,0.03,14235.91,No,2467.65
+12-01-2024,White Chocolate Bar,Premium,West,Mumbai,Online,Priya,15,393.17,0.17,4894.97,No,35.25
+01-10-2023,Chocolate Truffle,Fruity,Central,Indore,Distributor,Amit,4,131.19,0.21,414.56,No,57.99
+13-03-2023,Caramel Chocolate,White,North,Delhi,Online,Ali,19,383.44,0.29,5172.61,No,600.95
+11-06-2023,Chocolate Truffle,Milk,West,Pune,Retail,Priya,48,190.24,0.1,8218.37,No,2219.11
+25-03-2023,Chocolate Box,Dark,North,Delhi,Online,Amit,35,249.4,0.13,7594.23,No,1424.77
+16-03-2024,Mint Chocolate,White,South,Hyderabad,Online,Priya,15,177.46,0.2,2129.52,No,-11.99
+08-01-2023,Almond Chocolate,Dark,South,Chennai,Distributor,Amit,27,185.64,0.06,4711.54,No,625.62
+16-03-2024,Almond Chocolate,White,East,Kolkata,Online,Meera,23,108.13,0.16,2089.07,No,592.55
+22-03-2024,Chocolate Truffle,Premium,East,Kolkata,Retail,Amit,3,256.89,0.02,755.26,No,194.45
+24-10-2023,Mint Chocolate,Fruity,West,Ahmedabad,Distributor,Ali,15,232.26,0.29,2473.57,No,19.68
+07-09-2023,Chocolate Box,Nutty,East,Kolkata,Retail,Neha,56,314.99,0.16,14817.13,No,3254
+20-03-2023,Almond Chocolate,Premium,East,Kolkata,Retail,Raj,66,334.95,0.16,18569.63,No,4643.15
+20-09-2023,Caramel Chocolate,White,South,Bangalore,Online,Raj,26,128.07,0.05,3163.33,No,884.39
+27-11-2023,Milk Chocolate Bar,Milk,West,Pune,Distributor,Meera,81,192.26,0.13,13548.56,No,533.73
+14-11-2023,Almond Chocolate,White,Central,Bhopal,Retail,Neha,60,253.36,0.02,14897.57,No,4548.31
+18-04-2024,Milk Chocolate Bar,Premium,North,Chandigarh,Distributor,Ali,75,299.44,0.24,17068.08,No,680.53
+28-05-2024,Orange Chocolate,Fruity,South,Chennai,Distributor,Meera,20,480.98,0.14,8272.86,No,810.41
+10-02-2023,Caramel Chocolate,Premium,North,Chandigarh,Distributor,Raj,32,368.43,0.3,8252.83,No,107.2
+23-02-2024,Chocolate Box,Milk,East,Bhubaneswar,Retail,Ali,100,202.27,0.18,16586.14,No,-464.12
+18-10-2023,Caramel Chocolate,Dark,East,Kolkata,Distributor,Ali,33,375.68,0.2,9917.95,No,-503.48
+25-12-2023,White Chocolate Bar,White,North,Chandigarh,Distributor,Raj,40,485.46,0.21,15340.54,No,2467.2
+03-12-2023,Chocolate Box,Premium,North,Lucknow,Distributor,Ali,17,351.55,0.25,4482.26,No,153.52
+07-01-2024,Chocolate Truffle,Dark,West,Ahmedabad,Retail,Amit,40,131.12,0.06,4930.11,No,1388.72
+30-10-2023,Orange Chocolate,Milk,South,Bangalore,Online,Neha,13,278.46,0.16,3040.78,No,611.01
+07-06-2023,Chocolate Truffle,Dark,East,Patna,Online,Ali,21,131.38,0.21,2179.59,No,498.76
+01-09-2023,White Chocolate Bar,Premium,West,Mumbai,Retail,Priya,57,324.77,0.23,14254.16,No,325.98
+12-01-2024,Hazelnut Chocolate,Fruity,South,Chennai,Retail,Sara,87,476.21,0.3,29001.19,No,-1063.5
+24-07-2023,Almond Chocolate,Nutty,Central,Indore,Retail,Raj,78,112.28,0.08,8057.21,No,2689.8
+19-10-2023,Caramel Chocolate,Fruity,North,Chandigarh,Distributor,Neha,11,393.4,0.08,3981.21,No,1083.32
+28-01-2023,White Chocolate Bar,Nutty,North,Delhi,Retail,Priya,54,73.97,0.15,3395.22,No,91.6
+10-12-2023,Milk Chocolate Bar,White,South,Bangalore,Retail,Neha,19,111.92,0.09,1935.1,No,531.86
+23-03-2023,White Chocolate Bar,Premium,West,Pune,Distributor,Amit,3,165.17,0.25,371.63,No,56.37
+05-11-2023,Chocolate Box,Fruity,West,Mumbai,Retail,Sara,16,71.49,0.13,995.14,No,168.87
+11-06-2024,Orange Chocolate,Dark,North,Lucknow,Distributor,Amit,74,158.87,0.04,11286.12,No,1335.37
+29-03-2023,Chocolate Box,White,South,Hyderabad,Retail,Raj,68,488.59,0.02,32559.64,No,10614.65
+14-02-2023,Chocolate Truffle,Fruity,Central,Bhopal,Retail,Meera,82,224.1,0.11,16354.82,No,2241.28
+07-12-2023,Caramel Chocolate,Dark,East,Kolkata,Distributor,Neha,18,69.95,0.16,1057.64,No,62.44
+19-05-2023,White Chocolate Bar,Premium,West,Ahmedabad,Retail,Raj,9,372.22,0.28,2411.99,Yes,202.98
+11-06-2024,Hazelnut Chocolate,Dark,South,Bangalore,Retail,John,51,495.11,0.16,21210.51,No,1463.17
+07-10-2023,Hazelnut Chocolate,White,East,Kolkata,Distributor,Priya,16,409.7,0.13,5703.02,No,1167.18
+12-01-2024,Orange Chocolate,Nutty,East,Kolkata,Retail,Meera,67,170.02,0.02,11163.51,No,2528
+16-04-2023,Mint Chocolate,Fruity,South,Hyderabad,Retail,Priya,11,197.56,0.09,1977.58,No,329.49
+28-12-2023,Mint Chocolate,Milk,West,Pune,Retail,Amit,79,499.17,0.08,36279.68,No,7337.03
+01-02-2023,Dark Chocolate Bar,Dark,West,Pune,Distributor,Raj,19,431.9,0.2,6564.88,No,1455.99
+28-01-2024,White Chocolate Bar,Dark,South,Hyderabad,Retail,Priya,73,64.57,0.05,4477.93,No,665.44
+11-01-2024,Caramel Chocolate,White,West,Mumbai,Distributor,Raj,51,191.47,0.08,8983.77,No,2341.69
+01-05-2023,Dark Chocolate Bar,Premium,South,Chennai,Distributor,Ali,34,398.73,0.21,10709.89,No,1943.65
+17-03-2023,Chocolate Box,White,West,Mumbai,Online,Raj,58,127.7,0.21,5851.21,No,1331.75
+04-11-2023,Caramel Chocolate,Premium,East,Patna,Online,John,21,370.31,0.28,5599.09,No,-215.59
+31-08-2023,Caramel Chocolate,Fruity,South,Bangalore,Online,Raj,64,61.83,0.17,3284.41,No,239.84
+12-02-2024,Chocolate Truffle,Milk,Central,Bhopal,Online,John,92,373.49,0.16,28863.31,No,8104.17
+05-04-2024,Chocolate Box,Dark,South,Chennai,Distributor,Neha,60,356.05,0.1,19226.7,No,3673.94
+29-05-2024,Chocolate Truffle,Premium,Central,Bhopal,Online,Ali,8,424.13,0.16,2850.15,No,622.2
+22-03-2023,White Chocolate Bar,White,South,Chennai,Distributor,John,33,138.34,0.29,3241.31,No,-234.16
+07-06-2023,Almond Chocolate,Fruity,Central,Bhopal,Distributor,Raj,22,346.43,0.22,5944.74,No,1039.63
+04-08-2023,Chocolate Box,Dark,North,Delhi,Online,John,99,307.46,0.19,24655.22,Yes,1134.31
+01-11-2023,Chocolate Truffle,White,East,Bhubaneswar,Online,Ali,59,82.84,0.02,4789.81,No,1384.73
+17-11-2023,Orange Chocolate,Nutty,South,Chennai,Distributor,Raj,92,193.69,0.3,12473.64,No,-2391.06
+23-11-2023,Mint Chocolate,Milk,East,Patna,Distributor,Neha,31,259.91,0.08,7412.63,No,2301.3
+12-09-2023,Milk Chocolate Bar,Dark,East,Bhubaneswar,Distributor,Ali,21,416.07,0.28,6290.98,No,303.48
+12-11-2023,Hazelnut Chocolate,Milk,West,Ahmedabad,Retail,Meera,64,60.43,0.28,2784.61,No,354.38
+16-10-2023,Hazelnut Chocolate,Milk,Central,Nagpur,Online,Amit,64,318.88,0.25,15306.24,No,-1656.61
+28-09-2023,Almond Chocolate,Fruity,North,Delhi,Retail,Raj,94,214.6,0.12,17751.71,Yes,1223.76
+17-03-2023,Dark Chocolate Bar,Fruity,Central,Bhopal,Retail,John,50,276.91,0.23,10661.04,No,1460.91
+08-02-2024,Chocolate Box,Premium,Central,Bhopal,Online,Neha,48,407.7,0.1,17612.64,No,2641.97
+16-02-2023,White Chocolate Bar,Milk,Central,Indore,Retail,Amit,5,111.67,0.1,502.52,No,53.44
+23-11-2023,Orange Chocolate,Milk,Central,Indore,Online,Priya,21,226.83,0.18,3906.01,No,386.79
+03-11-2023,Chocolate Box,White,Central,Indore,Distributor,Meera,61,417.09,0.11,22643.82,No,4009.42
+30-04-2024,Mint Chocolate,Fruity,East,Patna,Distributor,Amit,34,485.18,0.23,12702.01,No,1806.93
+20-06-2024,Chocolate Box,Milk,North,Chandigarh,Retail,Raj,81,374.53,0.23,23359.44,No,4451.17
+20-01-2023,Hazelnut Chocolate,Dark,Central,Indore,Online,Sara,57,191.16,0.05,10351.31,No,1369.6
+22-05-2023,Mint Chocolate,Fruity,Central,Nagpur,Distributor,Amit,67,143.3,0.1,8640.99,No,719.08
+29-12-2023,Chocolate Truffle,Nutty,East,Kolkata,Retail,Priya,87,397.4,0.22,26967.56,No,751.1
+02-11-2023,Almond Chocolate,Fruity,West,Mumbai,Online,John,29,473.67,0.29,9752.87,No,346.75
+08-10-2023,Hazelnut Chocolate,Premium,West,Pune,Retail,Priya,37,104.84,0.2,3103.26,No,437.16
+22-03-2023,Mint Chocolate,White,South,Chennai,Online,John,45,465.8,0.2,16768.8,No,388.01
+21-05-2023,Hazelnut Chocolate,Milk,Central,Nagpur,Distributor,John,14,327.05,0.18,3754.53,No,-19.59
+05-12-2023,Chocolate Truffle,Milk,South,Bangalore,Online,Ali,92,262.58,0.2,19325.89,No,-525.94
+24-07-2023,Chocolate Truffle,Milk,West,Ahmedabad,Retail,Meera,97,483.76,0.1,42232.25,No,4928.56
+29-06-2023,Milk Chocolate Bar,Premium,Central,Bhopal,Distributor,Amit,54,447.01,0.05,22931.61,No,4574.06
+10-01-2023,Mint Chocolate,Nutty,South,Hyderabad,Retail,Amit,39,305.58,0.03,11560.09,No,4158.83
+31-05-2024,Almond Chocolate,Nutty,Central,Indore,Retail,Raj,60,172.78,0.24,7878.77,No,1239.8
+12-12-2023,Orange Chocolate,Premium,East,Patna,Online,Amit,38,305.5,0.23,8938.93,No,-634.3
+08-04-2023,Mint Chocolate,Nutty,Central,Nagpur,Online,Ali,24,491.76,0.14,10149.93,No,1279.28
+04-12-2023,Dark Chocolate Bar,White,West,Mumbai,Retail,John,39,312.11,0.17,10103,No,2771.64
+21-04-2024,Caramel Chocolate,Premium,South,Bangalore,Distributor,Neha,40,121.87,0.21,3851.09,No,802.55
+15-08-2023,Almond Chocolate,Premium,North,Chandigarh,Retail,Priya,29,480.81,0.14,11991.4,No,1312.42
+12-08-2023,Chocolate Box,White,West,Ahmedabad,Distributor,Meera,98,161.36,0.23,12176.23,No,2668.25
+21-03-2023,Milk Chocolate Bar,Fruity,West,Ahmedabad,Distributor,Priya,73,100.49,0.25,5501.83,No,805.46
+16-06-2024,Hazelnut Chocolate,Fruity,Central,Bhopal,Online,Priya,57,102.31,0.06,5481.77,No,1182.76
+09-06-2024,Milk Chocolate Bar,Fruity,West,Mumbai,Retail,Raj,54,255.56,0.02,13524.24,No,2857.02
+12-08-2023,Almond Chocolate,Premium,North,Lucknow,Retail,Amit,75,82.86,0.13,5406.61,No,665.01
+23-02-2024,Chocolate Truffle,Dark,North,Lucknow,Online,John,24,396.04,0.23,7318.82,No,1082.93
+24-03-2023,Mint Chocolate,White,West,Pune,Retail,Ali,88,483.86,0.26,31508.96,No,-1619.94
+17-08-2023,Caramel Chocolate,Dark,South,Hyderabad,Retail,Raj,1,390.28,0.29,277.1,No,19.78
+16-04-2024,Chocolate Truffle,Nutty,Central,Nagpur,Online,Sara,45,119.8,0.06,5067.54,No,1394.38
+31-07-2023,Milk Chocolate Bar,Dark,West,Ahmedabad,Online,Sara,9,95.4,0.01,850.01,No,174.62
+11-08-2023,Dark Chocolate Bar,Milk,North,Lucknow,Retail,Sara,97,438.68,0.02,41700.92,No,9258.96
+31-08-2023,Almond Chocolate,Milk,Central,Nagpur,Distributor,Priya,39,444.32,0.3,12129.94,No,-1946.09
+13-03-2024,Mint Chocolate,White,East,Kolkata,Distributor,Raj,72,273.03,0.29,13957.29,No,-1069.47
+02-06-2023,Mint Chocolate,Fruity,East,Patna,Retail,Ali,39,219.41,0.23,6588.88,No,238.93
+02-03-2024,Hazelnut Chocolate,White,South,Chennai,Online,Ali,72,288.5,0.12,18279.36,No,5329.71
+15-07-2023,Caramel Chocolate,Premium,North,Lucknow,Retail,Neha,7,170.81,0.2,956.54,No,129.22
+05-05-2024,Milk Chocolate Bar,Milk,Central,Indore,Distributor,Sara,27,441.26,0.1,10722.62,No,2784.3
+06-09-2023,Dark Chocolate Bar,Milk,South,Hyderabad,Online,Meera,90,321.98,0.06,27239.51,No,8084.99
+12-11-2023,Chocolate Truffle,White,East,Bhubaneswar,Retail,Priya,34,211.84,0.26,5329.89,No,-743.69
+16-02-2023,Orange Chocolate,White,South,Chennai,Retail,Ali,73,438.84,0.22,24987.55,Yes,2618.11
+06-06-2023,Chocolate Truffle,Fruity,Central,Indore,Retail,John,26,198.44,0.11,4591.9,No,345.62
+16-04-2024,Orange Chocolate,Fruity,East,Bhubaneswar,Retail,Meera,22,379.75,0.11,7435.51,No,1104.6
+20-06-2024,Chocolate Truffle,Nutty,South,Hyderabad,Distributor,Amit,5,427.58,0.02,2095.14,No,387.59
+11-03-2023,Dark Chocolate Bar,Dark,West,Mumbai,Distributor,Sara,91,117.96,0.07,9982.95,No,2193.46
+17-01-2023,Dark Chocolate Bar,Fruity,Central,Nagpur,Distributor,Meera,1,289.5,0.12,254.76,Yes,39.31
+03-07-2023,Almond Chocolate,Fruity,East,Kolkata,Distributor,Ali,14,463.12,0.16,5446.29,No,757.75
+22-03-2023,Chocolate Box,Fruity,East,Bhubaneswar,Retail,Ali,48,481.68,0.14,19883.75,No,4882.83
+06-04-2023,Hazelnut Chocolate,White,North,Chandigarh,Distributor,Amit,52,220.67,0.17,9524.12,No,566.71
+06-12-2023,Dark Chocolate Bar,Premium,South,Bangalore,Retail,Ali,73,489.8,0.29,25386.33,No,1423.31
+05-10-2023,Dark Chocolate Bar,Milk,South,Hyderabad,Distributor,Meera,6,465.87,0.21,2208.22,No,514.1
+01-08-2023,Chocolate Truffle,Fruity,North,Delhi,Retail,Amit,76,114.89,0.25,6548.73,No,-99.26
+06-12-2023,Milk Chocolate Bar,White,South,Hyderabad,Online,Ali,50,390.02,0.04,18720.96,No,6156.9
+26-08-2023,Milk Chocolate Bar,Fruity,East,Kolkata,Online,Ali,10,203.27,0.23,1565.18,No,-132.36
+17-05-2024,Mint Chocolate,White,North,Chandigarh,Retail,Meera,30,210.12,0.28,4538.59,No,-746.87
+10-09-2023,Chocolate Box,Premium,West,Mumbai,Distributor,John,92,83.08,0.08,7031.89,No,697.71
+04-04-2023,White Chocolate Bar,Premium,West,Pune,Retail,Neha,1,474.33,0.13,412.67,No,84.18
+08-06-2024,Milk Chocolate Bar,Milk,North,Delhi,Retail,Meera,53,96.48,0.03,4960.04,No,1872.22
+28-02-2024,Chocolate Box,Fruity,East,Bhubaneswar,Online,John,50,400.63,0.22,15624.57,No,-1043.23
+23-06-2023,Hazelnut Chocolate,Fruity,Central,Bhopal,Distributor,Ali,18,171.01,0.08,2831.93,No,655.52
+20-03-2023,White Chocolate Bar,Nutty,East,Bhubaneswar,Retail,Meera,47,163.26,0.07,7136.09,No,677.82
+08-11-2023,Chocolate Box,Fruity,South,Chennai,Online,Raj,1,476.97,0.1,429.27,No,28.18
+04-11-2023,Caramel Chocolate,Nutty,East,Bhubaneswar,Distributor,Raj,42,321.45,0.21,10665.71,No,-313.93
+06-09-2023,White Chocolate Bar,Nutty,East,Bhubaneswar,Distributor,Meera,42,219.22,0.24,6997.5,No,795.39
+28-01-2023,Milk Chocolate Bar,Fruity,South,Hyderabad,Distributor,Raj,94,257.73,0.21,19139.03,No,2270.65
+23-05-2023,Almond Chocolate,Premium,North,Lucknow,Distributor,Meera,82,186.27,0.08,14052.21,No,1637.63
+15-02-2024,Mint Chocolate,Nutty,North,Lucknow,Distributor,Meera,69,277.98,0.28,13810.05,No,781.99
+22-04-2023,Chocolate Truffle,Dark,East,Patna,Distributor,Neha,99,161.7,0.2,12806.64,No,2523.34
+06-12-2023,Chocolate Box,Dark,Central,Indore,Distributor,Ali,56,97.68,0.03,5305.98,No,1262.5
+01-04-2024,Chocolate Truffle,Fruity,Central,Indore,Distributor,Sara,48,226.01,0.23,8353.33,No,-694.72
+30-10-2023,Chocolate Truffle,Milk,East,Kolkata,Retail,Neha,54,464.25,0.03,24317.42,No,4913.44
+17-06-2024,White Chocolate Bar,White,East,Bhubaneswar,Retail,Sara,62,206.74,0.03,12433.34,No,2915.87
+24-01-2023,Orange Chocolate,White,North,Lucknow,Online,Neha,44,341.59,0.2,12023.97,No,2640.85
+12-03-2024,Hazelnut Chocolate,Fruity,South,Hyderabad,Online,Priya,60,154.33,0.12,8148.62,No,1169.03
+05-04-2024,Mint Chocolate,Nutty,North,Chandigarh,Distributor,Sara,76,243.3,0,18490.8,No,2819.6
+10-01-2024,Almond Chocolate,Premium,North,Chandigarh,Online,Raj,42,138.68,0.03,5649.82,No,1951.1
+27-04-2023,Orange Chocolate,Fruity,East,Patna,Retail,Ali,45,208.39,0.14,8064.69,No,1222.99
+17-11-2023,Almond Chocolate,Fruity,Central,Bhopal,Distributor,Raj,16,157.36,0.04,2417.05,No,354.14
+28-01-2024,White Chocolate Bar,Fruity,West,Pune,Distributor,Raj,55,133.59,0.19,5951.43,No,182.27
+11-07-2023,White Chocolate Bar,Fruity,South,Chennai,Retail,Raj,41,428.89,0.19,14243.44,No,628.58
+23-02-2024,Dark Chocolate Bar,Nutty,South,Bangalore,Retail,Meera,88,271.28,0.21,18859.39,No,343.27
+03-02-2023,White Chocolate Bar,Dark,Central,Bhopal,Online,John,36,151.18,0.09,4952.66,No,1198.04
+27-04-2023,Chocolate Box,Premium,West,Ahmedabad,Distributor,Neha,35,398.8,0.25,10468.5,No,1069.21
+15-04-2023,Dark Chocolate Bar,Premium,West,Ahmedabad,Online,Ali,95,423.53,0.23,30981.22,No,-1301.22
+01-05-2023,Dark Chocolate Bar,Nutty,East,Bhubaneswar,Online,Meera,100,415.35,0.06,39042.9,No,5709.89
+23-05-2023,Caramel Chocolate,Premium,Central,Indore,Retail,Raj,27,416.09,0.24,8538.17,No,-637.75
+27-10-2023,Chocolate Truffle,White,Central,Indore,Online,Priya,38,307.73,0.29,8302.56,No,-1383.48
+16-05-2023,Milk Chocolate Bar,Milk,West,Mumbai,Retail,Raj,32,115.81,0.1,3335.33,No,638.03
+29-02-2024,Mint Chocolate,Nutty,South,Hyderabad,Distributor,John,49,253.4,0.19,10057.45,No,1050.71
+10-04-2024,Milk Chocolate Bar,Nutty,Central,Indore,Retail,Priya,63,197.28,0,12428.64,No,2491.03
+06-03-2023,Milk Chocolate Bar,Premium,West,Ahmedabad,Distributor,Priya,69,228.97,0.29,11217.24,No,-829.3
+11-05-2024,Orange Chocolate,White,East,Bhubaneswar,Retail,Raj,44,452.37,0.23,15326.3,Yes,-109.3
+01-01-2023,Orange Chocolate,Dark,North,Delhi,Retail,Meera,55,141.04,0.21,6128.19,No,-69.41
+14-09-2023,Almond Chocolate,Milk,East,Kolkata,Distributor,Priya,11,217.33,0.27,1745.16,No,-221.14
+15-03-2024,Mint Chocolate,Premium,East,Patna,Distributor,Sara,84,91.04,0.03,7417.94,No,2183.33
+10-01-2023,Milk Chocolate Bar,Milk,Central,Bhopal,Distributor,Meera,2,363.02,0.25,544.53,No,40.73
+28-01-2024,Mint Chocolate,Premium,South,Chennai,Online,Sara,12,378.84,0.03,4409.7,No,1575.24
+12-03-2023,Almond Chocolate,Milk,West,Mumbai,Distributor,Raj,68,303.48,0.18,16922.04,No,1556.62
+26-02-2024,Caramel Chocolate,Premium,South,Hyderabad,Distributor,Raj,79,358.95,0.26,20984.22,No,3715.19
+26-12-2023,Milk Chocolate Bar,Milk,North,Chandigarh,Distributor,Ali,55,191.53,0.04,10112.78,No,2566.12
+28-01-2023,Milk Chocolate Bar,Milk,Central,Indore,Distributor,John,85,444.12,0.06,35485.19,No,7713.83
+03-09-2023,Hazelnut Chocolate,Premium,West,Pune,Distributor,Amit,64,223.65,0.07,13311.65,No,3698.13
+01-02-2024,Milk Chocolate Bar,Fruity,North,Lucknow,Retail,Raj,73,239.39,0.16,14679.39,No,1612.84
+26-09-2023,Orange Chocolate,Dark,North,Chandigarh,Online,Amit,28,67.92,0.02,1863.72,No,708.16
+26-03-2023,Chocolate Truffle,White,Central,Nagpur,Retail,Ali,82,291.45,0.18,19597.1,No,5034.61
+05-02-2024,Almond Chocolate,Dark,Central,Bhopal,Online,Priya,76,335.43,0.25,19119.51,No,-1418.67
+08-09-2023,Milk Chocolate Bar,White,West,Ahmedabad,Online,Amit,12,466.08,0.03,5425.17,No,1565.76
+12-01-2023,Dark Chocolate Bar,White,South,Bangalore,Online,Raj,21,273.39,0.1,5167.07,No,1539.99
+01-05-2023,Almond Chocolate,Milk,East,Kolkata,Distributor,John,99,454.95,0.1,40536.04,No,7631.54
+23-05-2024,Chocolate Truffle,Dark,East,Patna,Distributor,Neha,59,279.85,0.02,16180.93,No,3095.87
+22-08-2023,White Chocolate Bar,White,South,Chennai,Online,Neha,95,278.97,0.01,26237.13,No,8905.91
+03-07-2023,Hazelnut Chocolate,Dark,West,Pune,Retail,Raj,5,298.79,0.27,1090.58,No,-38.43
+05-10-2023,Mint Chocolate,Milk,East,Kolkata,Retail,Priya,10,307.19,0.04,2949.02,No,1040.34
+12-03-2023,Dark Chocolate Bar,Milk,South,Hyderabad,Online,Ali,60,439.71,0.23,20314.6,No,4144.17
+26-10-2023,Milk Chocolate Bar,Fruity,West,Mumbai,Retail,Sara,73,403.03,0.22,22948.53,No,1387.54
+04-06-2023,Caramel Chocolate,Fruity,West,Mumbai,Distributor,Sara,1,469.58,0.01,464.88,No,119.66
+17-04-2023,Dark Chocolate Bar,White,North,Chandigarh,Retail,John,27,288.42,0.07,7242.23,No,1328.86
+16-06-2024,Dark Chocolate Bar,Milk,East,Kolkata,Online,Sara,53,365.38,0.11,17234.97,No,2100.67
+18-03-2023,Milk Chocolate Bar,Fruity,North,Chandigarh,Online,Ali,76,305.52,0.13,20200.98,No,604.56
+22-11-2023,Hazelnut Chocolate,White,East,Bhubaneswar,Retail,Priya,58,172.38,0.02,9798.08,No,2508.76
+22-04-2024,Chocolate Box,Dark,South,Bangalore,Online,Meera,41,232.93,0.16,8022.11,No,1520.96
+03-04-2023,Hazelnut Chocolate,Nutty,East,Bhubaneswar,Retail,Neha,21,413.42,0.09,7900.46,No,965.45
+12-09-2023,Chocolate Box,Dark,South,Chennai,Online,Neha,46,228.31,0.01,10397.24,No,3384.8
+07-04-2023,White Chocolate Bar,Dark,West,Pune,Distributor,Sara,60,95.86,0.24,4371.22,No,289.06
+28-03-2023,Dark Chocolate Bar,Milk,South,Bangalore,Retail,Priya,75,313.75,0.28,16942.5,No,2362.21
+06-05-2023,Milk Chocolate Bar,Milk,West,Mumbai,Online,Priya,6,474.03,0.02,2787.3,No,1062.77
+12-03-2024,Mint Chocolate,Premium,West,Pune,Online,Ali,23,209.27,0.27,3513.64,No,-532.64
+30-10-2023,Orange Chocolate,Milk,North,Chandigarh,Distributor,Sara,64,235.4,0.17,12504.45,No,316.45
+20-01-2023,Almond Chocolate,Nutty,South,Chennai,Online,Sara,49,401.86,0.11,17525.11,No,2284.29
+04-10-2023,Orange Chocolate,White,Central,Indore,Retail,Ali,24,61.73,0.18,1214.85,Yes,174.47
+13-06-2023,Almond Chocolate,Dark,West,Ahmedabad,Retail,Sara,13,161.54,0.07,1953.02,No,602.03
+30-06-2023,Dark Chocolate Bar,Milk,Central,Nagpur,Retail,Raj,31,316.63,0.24,7459.8,No,1186.6
+12-07-2023,Chocolate Box,Dark,East,Patna,Distributor,Raj,64,293.96,0.05,17872.77,Yes,5407.72
+01-01-2023,Dark Chocolate Bar,Milk,Central,Bhopal,Online,Meera,43,463.05,0.06,18716.48,No,4035.86
+24-04-2023,White Chocolate Bar,White,North,Delhi,Online,Raj,68,437.3,0.29,21112.84,No,-2041.38
+20-05-2023,Mint Chocolate,Fruity,North,Lucknow,Retail,Priya,21,379.56,0.13,6934.56,No,836.54
+17-08-2023,Orange Chocolate,Premium,East,Kolkata,Distributor,Priya,86,315.03,0.05,25737.95,No,7586.37
+03-02-2023,Almond Chocolate,Milk,South,Hyderabad,Online,Ali,24,321.07,0.28,5548.09,No,-914.79
+06-12-2023,Hazelnut Chocolate,Premium,Central,Bhopal,Retail,Raj,96,85.01,0.1,7344.86,No,942.8
+03-08-2023,Milk Chocolate Bar,Premium,East,Bhubaneswar,Online,John,32,361.93,0.11,10307.77,No,1753.62
+20-06-2023,Dark Chocolate Bar,Dark,West,Pune,Distributor,Ali,53,271.89,0.11,12825.05,No,1975.2
+16-06-2023,Milk Chocolate Bar,Nutty,Central,Indore,Distributor,Sara,58,83.17,0.25,3617.89,No,217.55
+20-01-2024,Caramel Chocolate,White,North,Delhi,Retail,Raj,21,379.39,0.16,6692.44,No,1418.7
+17-03-2024,Milk Chocolate Bar,White,Central,Indore,Retail,Amit,84,124.25,0.27,7619.01,No,427.99
+16-10-2023,Milk Chocolate Bar,White,South,Bangalore,Retail,John,39,156.9,0.01,6057.91,No,1227.12
+31-03-2023,Orange Chocolate,Milk,North,Lucknow,Online,Ali,38,420.75,0.19,12950.69,No,3300.06
+25-03-2023,Milk Chocolate Bar,Dark,South,Bangalore,Distributor,John,61,429.7,0.09,23852.65,No,7365.01
+09-07-2023,Orange Chocolate,Premium,East,Kolkata,Distributor,Ali,48,448.47,0.11,19158.64,No,5995.13
+05-03-2023,Almond Chocolate,Nutty,West,Pune,Online,John,20,388.51,0.2,6216.16,No,1474.92
+01-02-2024,Caramel Chocolate,Fruity,West,Ahmedabad,Online,Amit,67,238.38,0.16,13416.03,No,417.42
+09-02-2024,Orange Chocolate,Fruity,South,Chennai,Retail,Neha,92,65.63,0.17,5011.51,No,326.57
+27-06-2023,Chocolate Box,Premium,Central,Bhopal,Online,Meera,22,487.47,0.24,8150.5,No,444.6
+22-09-2023,Mint Chocolate,Dark,West,Mumbai,Distributor,Raj,41,459.86,0.27,13763.61,No,1989.91
+16-06-2024,Mint Chocolate,Fruity,West,Ahmedabad,Retail,John,59,462.72,0,27300.48,No,7564.85
+01-06-2023,Chocolate Box,Fruity,West,Mumbai,Retail,Raj,73,314.57,0.23,17681.98,No,1185.66
+25-02-2024,Milk Chocolate Bar,Fruity,North,Lucknow,Distributor,Priya,34,222.37,0.15,6426.49,No,1562.77
+09-02-2023,Dark Chocolate Bar,Milk,East,Bhubaneswar,Online,Ali,51,450.31,0.1,20669.23,No,4398.81
+15-11-2023,Orange Chocolate,White,East,Kolkata,Retail,John,36,429.28,0.26,11436.02,No,623.94
+03-10-2023,Hazelnut Chocolate,Milk,East,Patna,Retail,Priya,94,237.55,0.19,18087.06,No,1251.3
+11-06-2024,Hazelnut Chocolate,Nutty,West,Ahmedabad,Retail,Amit,21,79.53,0.21,1319.4,No,52.15
+01-03-2023,Chocolate Truffle,Fruity,North,Delhi,Online,Sara,32,64.88,0.02,2034.64,No,765.43
+07-05-2023,Hazelnut Chocolate,White,East,Bhubaneswar,Distributor,Ali,88,63.75,0.11,4992.9,No,1101.51
+17-06-2023,White Chocolate Bar,Nutty,Central,Indore,Retail,Priya,34,387.03,0.21,10395.63,No,441.29
+19-08-2023,Mint Chocolate,Dark,South,Hyderabad,Online,Sara,87,143.03,0.2,9954.89,No,923.52
+18-08-2023,Dark Chocolate Bar,Nutty,South,Hyderabad,Online,Amit,33,323.75,0.28,7692.3,No,-1005.58
+12-08-2023,Almond Chocolate,Nutty,West,Pune,Retail,John,60,185.97,0.16,9372.89,No,840.51
+17-10-2023,Chocolate Box,Dark,North,Chandigarh,Distributor,Priya,39,357.99,0.14,12006.98,No,3061.31
+12-07-2023,Almond Chocolate,Premium,East,Bhubaneswar,Retail,John,20,282.78,0.07,5259.71,No,1766.57
+24-05-2024,Chocolate Box,Nutty,East,Patna,Online,Amit,38,166.74,0.13,5512.42,No,693.14
+02-05-2024,Dark Chocolate Bar,Fruity,Central,Bhopal,Retail,Sara,86,211.32,0.09,16537.9,No,5513.34
+22-09-2023,Chocolate Truffle,Milk,East,Kolkata,Retail,Raj,93,413.75,0.23,29628.64,No,906.41
+11-11-2023,Caramel Chocolate,Premium,North,Delhi,Retail,Sara,54,404.64,0.1,19665.5,No,1419.02
+28-04-2024,Almond Chocolate,Nutty,North,Lucknow,Online,Neha,25,275.21,0.26,5091.38,No,-26.62
+17-12-2023,Almond Chocolate,Nutty,North,Delhi,Online,Sara,53,494.24,0.27,19122.15,No,863.32
+01-07-2023,White Chocolate Bar,White,South,Bangalore,Retail,Priya,41,335.52,0,13756.32,No,3290.21
+20-03-2024,White Chocolate Bar,Fruity,South,Chennai,Online,Raj,82,243.23,0.13,17352.03,No,3100.17
+15-01-2023,Dark Chocolate Bar,Dark,Central,Bhopal,Distributor,Priya,42,390.58,0.16,13779.66,Yes,1699.42
+16-11-2023,Dark Chocolate Bar,Premium,South,Bangalore,Distributor,Priya,17,96.22,0.15,1390.38,No,23.94
+20-03-2024,Milk Chocolate Bar,Dark,East,Bhubaneswar,Retail,Priya,88,497.96,0.1,39438.43,No,8916.34
+18-08-2023,Caramel Chocolate,Milk,South,Chennai,Online,Sara,94,493.2,0.06,43579.15,Yes,4622.28
+20-01-2024,Chocolate Truffle,Milk,North,Lucknow,Distributor,Amit,82,165.11,0.16,11372.78,Yes,184.98
+29-04-2023,Dark Chocolate Bar,Premium,North,Chandigarh,Online,Amit,54,249.94,0.04,12956.89,No,4198.2
+16-06-2024,White Chocolate Bar,Milk,North,Lucknow,Retail,Neha,35,330.26,0.21,9131.69,No,1995.79
+19-04-2023,Milk Chocolate Bar,Fruity,Central,Bhopal,Retail,Neha,64,139.39,0.06,8385.7,No,2808.36
+14-06-2023,Chocolate Truffle,Milk,East,Patna,Retail,John,6,296.66,0.27,1299.37,No,223.29
+24-04-2023,Orange Chocolate,White,South,Bangalore,Online,Neha,74,351.06,0.04,24939.3,No,8738.87
+12-04-2024,Chocolate Truffle,Dark,North,Lucknow,Distributor,Sara,38,168.86,0.02,6288.35,No,1342.68
+29-04-2023,Dark Chocolate Bar,White,East,Patna,Retail,Ali,13,433.06,0.27,4109.74,Yes,631.68
+02-10-2023,White Chocolate Bar,Premium,South,Chennai,Retail,Meera,94,91.83,0.24,6560.34,No,692.78
+07-03-2024,Mint Chocolate,Nutty,West,Pune,Retail,Meera,84,448.76,0.05,35811.05,No,5231.47
+24-03-2024,Dark Chocolate Bar,Milk,North,Lucknow,Distributor,Meera,24,325.1,0.23,6007.85,No,1281.02
+17-02-2023,White Chocolate Bar,Nutty,West,Mumbai,Retail,Meera,9,167.73,0.09,1373.71,No,160.59
+13-12-2023,Chocolate Truffle,Premium,Central,Indore,Distributor,Sara,67,285.4,0.21,15106.22,No,2285.75
+02-06-2023,Hazelnut Chocolate,Nutty,East,Patna,Distributor,Ali,72,451.43,0.18,26652.43,Yes,6190.48
+18-05-2024,White Chocolate Bar,Fruity,West,Pune,Online,Neha,42,158.4,0.29,4723.49,No,-427
+15-04-2024,Hazelnut Chocolate,Fruity,West,Pune,Online,Neha,57,410.57,0.13,20360.17,No,2638.97
+16-04-2023,Orange Chocolate,White,North,Lucknow,Distributor,Amit,52,235.55,0.17,10166.34,Yes,130.23
+12-04-2024,Milk Chocolate Bar,Fruity,Central,Indore,Retail,Sara,44,213.5,0.02,9206.12,No,1843.41
+08-01-2024,Orange Chocolate,White,Central,Indore,Distributor,Meera,92,253.64,0.03,22634.83,No,3946.62
+19-04-2023,Dark Chocolate Bar,White,East,Patna,Retail,Priya,6,453.59,0.15,2313.31,No,488.49
+04-05-2023,Mint Chocolate,Dark,East,Patna,Online,Sara,51,147.02,0.25,5623.52,No,792.1
+06-04-2024,Caramel Chocolate,Dark,West,Mumbai,Distributor,Neha,59,346.31,0.29,14506.93,No,-1586.64
+09-05-2024,Orange Chocolate,Dark,Central,Indore,Online,Ali,66,401.49,0.27,19343.79,No,-1900.16
+31-05-2024,White Chocolate Bar,Premium,South,Bangalore,Retail,Priya,50,238.4,0.18,9774.4,No,-329.31
+17-05-2023,Hazelnut Chocolate,White,West,Pune,Retail,Meera,18,235.74,0.21,3352.22,No,368.51
+25-07-2023,Almond Chocolate,Premium,Central,Nagpur,Distributor,Sara,27,330.88,0.09,8129.72,No,1938.58
+29-04-2023,White Chocolate Bar,Premium,South,Hyderabad,Distributor,Priya,98,208.51,0.14,17573.22,No,1346.53
+19-06-2024,Mint Chocolate,Premium,Central,Nagpur,Retail,Amit,14,61.37,0.04,824.81,No,236.1
+30-05-2023,Hazelnut Chocolate,White,South,Chennai,Distributor,John,8,360.77,0.09,2626.41,No,223.14
+03-02-2024,Dark Chocolate Bar,White,West,Mumbai,Distributor,Sara,31,279.92,0.24,6594.92,No,-473.82
+25-02-2023,Dark Chocolate Bar,Nutty,West,Pune,Distributor,Priya,2,384.65,0.06,723.14,No,179.05
+18-07-2023,Orange Chocolate,Milk,East,Patna,Distributor,Sara,38,251.97,0.3,6702.4,No,-839.89
+14-03-2024,White Chocolate Bar,Premium,Central,Bhopal,Retail,Amit,36,300.47,0.04,10384.24,No,1853.63
+10-02-2023,Almond Chocolate,Dark,East,Bhubaneswar,Distributor,Raj,20,467.88,0.18,7673.23,No,1817.42
+16-03-2023,Chocolate Box,Premium,East,Bhubaneswar,Distributor,Priya,91,193.04,0.07,16336.98,No,1833.29
+05-04-2023,Milk Chocolate Bar,Fruity,South,Chennai,Distributor,Ali,45,149.54,0.06,6325.54,No,1437.96
+10-01-2023,Caramel Chocolate,White,South,Hyderabad,Distributor,Meera,15,351.02,0.13,4580.81,No,333.74
+26-01-2024,Chocolate Box,Fruity,South,Bangalore,Distributor,Priya,15,223.64,0.16,2817.86,No,536.69
+14-02-2023,Chocolate Truffle,White,Central,Indore,Retail,Meera,38,454.23,0.06,16225.1,No,2004.31
+04-08-2023,Milk Chocolate Bar,Milk,Central,Indore,Online,Neha,86,333.28,0.06,26942.36,No,6956.28
+15-03-2023,Milk Chocolate Bar,Milk,Central,Indore,Distributor,Ali,96,358.72,0.01,34092.75,No,13337.17
+14-03-2023,Dark Chocolate Bar,Dark,North,Delhi,Online,John,74,419.73,0.27,22673.81,No,-2992.5
+03-02-2024,Orange Chocolate,Premium,West,Pune,Retail,Amit,87,103.24,0,8981.88,No,3387.77
+02-01-2024,Milk Chocolate Bar,Premium,Central,Bhopal,Distributor,Neha,65,97.76,0.24,4829.34,No,509.44
+30-04-2024,Milk Chocolate Bar,White,West,Pune,Retail,Amit,21,290.06,0.04,5847.61,No,746.09
+12-01-2023,Chocolate Truffle,White,South,Chennai,Distributor,Priya,71,443.65,0.04,30239.18,Yes,3853.86
+09-11-2023,Chocolate Box,Fruity,West,Ahmedabad,Distributor,Neha,27,386.73,0.27,7622.45,No,-139.49
+15-08-2023,Mint Chocolate,Premium,Central,Bhopal,Online,Raj,79,425.64,0.06,31608.03,No,6121.22
+25-10-2023,Chocolate Box,Dark,Central,Nagpur,Distributor,Neha,86,80.31,0.03,6699.46,No,1781.15
+13-04-2023,Orange Chocolate,White,East,Kolkata,Distributor,Sara,37,328.78,0.27,8880.35,No,689.72
+09-01-2024,Orange Chocolate,White,Central,Indore,Retail,Raj,41,481.4,0.05,18750.53,No,5286.34
+06-12-2023,Hazelnut Chocolate,Premium,West,Pune,Retail,Raj,62,258.28,0.11,14251.89,No,1951.55
+15-10-2023,Chocolate Truffle,Dark,South,Hyderabad,Distributor,Neha,18,451.08,0.06,7632.27,No,1233.39
+19-02-2024,Milk Chocolate Bar,Premium,North,Delhi,Distributor,Amit,99,315.52,0.27,22802.63,No,-2120.79
+06-02-2024,Chocolate Truffle,Fruity,West,Ahmedabad,Online,Priya,29,451.15,0.18,10728.35,No,295.63
+08-01-2024,White Chocolate Bar,Nutty,Central,Indore,Online,Ali,65,54.77,0.07,3310.85,No,1093.65
+13-06-2023,Chocolate Box,Premium,South,Hyderabad,Online,Meera,23,304.86,0.17,5819.78,No,746.02
+14-05-2024,White Chocolate Bar,Premium,West,Pune,Online,Sara,30,78.29,0.11,2090.34,Yes,647.32
+17-02-2023,Hazelnut Chocolate,Fruity,East,Bhubaneswar,Retail,Meera,6,491.27,0.1,2652.86,No,479.34
+21-01-2024,Chocolate Truffle,Premium,East,Patna,Retail,Raj,84,220.33,0.18,15176.33,No,2028.77
+28-12-2023,Milk Chocolate Bar,Fruity,East,Bhubaneswar,Online,Ali,45,269.09,0.14,10413.78,No,461.04
+10-06-2024,Chocolate Truffle,Milk,West,Mumbai,Online,Neha,83,176.36,0.05,13905.99,No,3839.1
+05-12-2023,Chocolate Box,Premium,North,Chandigarh,Online,Ali,93,101,0.2,7514.4,No,1603.7
+11-05-2023,Chocolate Box,Milk,West,Mumbai,Online,Amit,74,316.56,0.04,22488.42,No,7595.75
+13-06-2024,Chocolate Box,Milk,North,Delhi,Retail,Raj,52,319.71,0.17,13798.68,Yes,658.71
+08-05-2024,Almond Chocolate,Dark,South,Chennai,Distributor,Meera,22,148.71,0.12,2879.03,No,410.41
+21-06-2023,Chocolate Box,Milk,Central,Indore,Distributor,John,93,358.52,0.28,24006.5,No,3158.17
+17-01-2023,Milk Chocolate Bar,Milk,West,Pune,Online,Neha,26,285.22,0.27,5413.48,No,808.12
+30-05-2024,White Chocolate Bar,Fruity,North,Delhi,Retail,Amit,97,102.88,0.14,8582.25,No,845.83
+18-06-2024,Chocolate Box,Fruity,North,Chandigarh,Distributor,Ali,54,216.67,0.01,11583.18,No,4350.24
+11-03-2024,Hazelnut Chocolate,Nutty,West,Pune,Distributor,Neha,18,164.53,0.23,2280.39,No,-105.03
+13-07-2023,Milk Chocolate Bar,White,Central,Indore,Retail,John,1,369.12,0.24,280.53,No,-6.11
+20-11-2023,Milk Chocolate Bar,Fruity,North,Lucknow,Distributor,Sara,53,213.02,0.05,10725.56,No,3721.92
+10-10-2023,Almond Chocolate,White,Central,Nagpur,Distributor,Priya,88,228.85,0.06,18930.47,No,6420.06
+17-09-2023,Chocolate Truffle,Nutty,South,Chennai,Distributor,Meera,40,309.94,0.23,9546.15,No,-950.4
+15-06-2023,White Chocolate Bar,Premium,North,Chandigarh,Online,Meera,13,146.51,0.12,1676.07,No,355.08
+04-04-2023,Chocolate Truffle,Fruity,North,Delhi,Retail,Amit,19,262.25,0.18,4085.86,No,634.51
+29-01-2024,Almond Chocolate,Milk,East,Kolkata,Distributor,Amit,52,326.28,0.16,14251.91,No,624.37
+11-01-2023,Chocolate Box,Dark,South,Hyderabad,Retail,Meera,26,432.76,0.28,8101.27,No,-1314.34
+23-06-2023,Hazelnut Chocolate,Dark,Central,Indore,Distributor,Sara,87,66.23,0.07,5358.67,Yes,481.13
+20-02-2024,White Chocolate Bar,Dark,East,Bhubaneswar,Retail,Ali,76,140.14,0,10650.64,No,2254.27
+22-12-2023,Milk Chocolate Bar,Fruity,East,Patna,Distributor,Priya,36,151.83,0.29,3880.77,No,87.09
+02-06-2024,Mint Chocolate,Fruity,North,Lucknow,Online,Ali,14,301.38,0.15,3586.42,No,966.75
+29-03-2024,Milk Chocolate Bar,Fruity,East,Patna,Distributor,John,49,303.43,0.23,11448.41,No,-361.1
+30-04-2023,Orange Chocolate,Premium,West,Ahmedabad,Online,Meera,34,80.4,0.19,2214.22,No,192.45
+27-09-2023,Hazelnut Chocolate,White,West,Pune,Distributor,Amit,32,179.28,0.12,5048.52,No,997.91
+29-12-2023,Caramel Chocolate,Dark,Central,Bhopal,Retail,Priya,28,452.44,0.08,11654.85,No,1183.36
+29-09-2023,Hazelnut Chocolate,Nutty,South,Bangalore,Distributor,Sara,27,153.14,0.25,3101.09,No,505.28
+07-01-2023,Caramel Chocolate,Milk,North,Delhi,Online,Meera,98,435.69,0.29,30315.31,No,-561.74
+17-05-2024,Caramel Chocolate,Fruity,East,Bhubaneswar,Distributor,John,24,492.98,0.27,8637.01,No,1504.52
+04-05-2024,Hazelnut Chocolate,Fruity,South,Bangalore,Distributor,Ali,70,64.65,0.1,4072.95,No,827.42
+20-11-2023,White Chocolate Bar,Nutty,North,Chandigarh,Distributor,Meera,89,53.79,0.2,3829.85,No,890.08
+27-09-2023,Milk Chocolate Bar,White,East,Patna,Retail,Raj,31,171.23,0.29,3768.77,No,426.22
+09-01-2024,White Chocolate Bar,Nutty,West,Mumbai,Retail,Priya,52,175.83,0.05,8686,No,2931.46
+30-08-2023,Chocolate Box,Premium,South,Bangalore,Distributor,John,72,244.5,0.11,15667.56,No,2247.99
+18-05-2023,White Chocolate Bar,Nutty,North,Delhi,Retail,Meera,81,282.65,0.22,17857.83,No,-149.07
+12-04-2023,Almond Chocolate,White,Central,Indore,Online,Ali,89,123.5,0.06,10332.01,No,2134.09
+21-09-2023,Milk Chocolate Bar,Nutty,East,Bhubaneswar,Retail,Priya,45,58.93,0.04,2545.78,No,316.79
+19-10-2023,Chocolate Box,Milk,Central,Indore,Distributor,Raj,46,196.29,0.15,7674.94,No,1411.13
+29-05-2023,Orange Chocolate,Dark,West,Ahmedabad,Retail,Meera,22,338.26,0.28,5358.04,No,361.46
+18-12-2023,Chocolate Box,Fruity,West,Mumbai,Online,Raj,30,191.07,0.2,4585.68,No,-98.3
+17-06-2024,Chocolate Box,Premium,West,Pune,Retail,Priya,58,236.3,0.06,12883.08,Yes,3893.72
+04-08-2023,Hazelnut Chocolate,Premium,East,Patna,Distributor,Neha,22,228.67,0.03,4879.82,No,649.95
+17-04-2023,Orange Chocolate,Fruity,North,Delhi,Retail,Neha,34,328.15,0.03,10822.39,No,4094.23
+29-03-2024,Mint Chocolate,White,South,Bangalore,Distributor,John,81,106.89,0.16,7272.8,No,-21.38
+06-10-2023,Dark Chocolate Bar,Premium,East,Bhubaneswar,Retail,Meera,71,250.18,0.29,12611.57,No,1762.24
+20-06-2024,White Chocolate Bar,Fruity,Central,Nagpur,Distributor,Ali,82,337.79,0.09,25205.89,No,2415.73
+27-02-2024,Chocolate Truffle,Milk,North,Lucknow,Retail,Priya,34,120.07,0,4082.38,No,1094.38
+18-05-2024,White Chocolate Bar,White,East,Bhubaneswar,Distributor,Amit,97,264.68,0,25673.96,No,3896.25
+13-07-2023,Almond Chocolate,Fruity,South,Bangalore,Distributor,Priya,53,446.97,0.13,20609.79,No,5959.09
+03-09-2023,Mint Chocolate,Nutty,South,Chennai,Online,Ali,67,394.04,0.27,19272.5,No,-223.44
+12-03-2023,Almond Chocolate,White,Central,Nagpur,Retail,Sara,24,111.48,0.03,2595.25,No,341.59
+20-01-2023,Orange Chocolate,White,Central,Nagpur,Online,Priya,20,72.33,0.16,1215.14,No,158
+09-01-2023,Milk Chocolate Bar,White,East,Kolkata,Distributor,Meera,30,90.59,0,2717.7,No,659.45
+05-12-2023,Mint Chocolate,White,West,Pune,Retail,Amit,11,429.6,0.29,3355.18,No,-302.14
+14-09-2023,Mint Chocolate,Dark,Central,Nagpur,Online,Sara,49,422.71,0.04,19884.28,No,5102.9
+23-07-2023,Hazelnut Chocolate,Nutty,West,Mumbai,Distributor,Amit,59,380.9,0.03,21798.91,No,4789.26
+12-06-2023,Hazelnut Chocolate,Nutty,West,Ahmedabad,Retail,Priya,81,377.71,0.22,23863.72,No,1037.81
+05-01-2024,Milk Chocolate Bar,White,West,Ahmedabad,Retail,Sara,7,438.65,0.07,2855.61,No,321.52
+10-02-2024,Mint Chocolate,White,North,Delhi,Retail,Neha,32,54.02,0.01,1711.35,No,654.53
+12-09-2023,Orange Chocolate,Premium,Central,Bhopal,Retail,Neha,21,274.96,0.21,4561.59,No,691.51
+09-05-2023,Dark Chocolate Bar,Dark,East,Patna,Online,Neha,63,154.7,0.29,6919.73,No,-1243.63
+02-01-2024,Caramel Chocolate,Nutty,South,Bangalore,Distributor,Ali,93,110.63,0.27,7510.67,No,-952.37
+14-07-2023,Orange Chocolate,Fruity,East,Patna,Distributor,Meera,73,133.98,0.1,8802.49,No,1820.02
+05-04-2024,Almond Chocolate,Fruity,Central,Bhopal,Online,Raj,38,418.74,0.16,13366.18,No,1352
+02-09-2023,Chocolate Truffle,Nutty,South,Bangalore,Distributor,Priya,42,374.45,0.2,12581.52,No,2054.79
+17-10-2023,Mint Chocolate,Milk,Central,Indore,Retail,Raj,42,234.41,0.1,8860.7,No,2490.54
+20-04-2023,Milk Chocolate Bar,Dark,South,Bangalore,Online,Sara,63,136.23,0.01,8496.67,No,2352.25
+20-02-2023,Mint Chocolate,Premium,West,Ahmedabad,Distributor,John,47,149.33,0.22,5474.44,Yes,643.33
+05-01-2024,Hazelnut Chocolate,Premium,West,Mumbai,Retail,Amit,72,384.56,0.27,20212.47,No,-440.64
+08-11-2023,Dark Chocolate Bar,Fruity,East,Patna,Online,Neha,10,475.07,0.29,3373,No,430.26
+03-07-2023,Hazelnut Chocolate,Fruity,West,Mumbai,Online,Sara,72,387.14,0.12,24529.19,No,1014.65
+17-04-2023,Chocolate Box,White,West,Ahmedabad,Distributor,Ali,22,406.61,0.16,7514.15,No,-58.62
